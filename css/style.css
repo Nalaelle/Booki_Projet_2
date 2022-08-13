@@ -321,6 +321,9 @@
     color: #0065fc;
   }
   
+  .card.card-heb:hover {
+    border: 2px transparent solid;
+  }
   /* Popular ***************************************************/
   #popular {
     background-color: #f2f2f2;
